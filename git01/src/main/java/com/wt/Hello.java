@@ -3,10 +3,6 @@ package com.wt;
 public class Hello {
     public  void hello(){
         System.out.println("bad");
-        System.out.println("aaa");
-        System.out.println("aaaa");
-        System.out.println("bbb");
-        System.out.println("ddd123");
         System.out.println("hello,xiaosi");
 
 
