@@ -5,7 +5,6 @@ public class Hello {
         System.out.println("bad");
         System.out.println("aaa");
         System.out.println("aaaa");
-        System.out.println("bbb");
     }
 
     public static void main(String[] args) {
